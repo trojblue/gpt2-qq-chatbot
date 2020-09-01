@@ -1,6 +1,10 @@
 # gpt2-qq-chatbot
 QQ chatbot with gpt-2 integration; based on [nonebot](https://github.com/nonebot/nonebot) framework
 
+QQ is a chatting app developed by Tencent Holdings Ltd. 
+
+**NO LONGER WORKING; SEE SETUP PART**
+
 Skills involved for this project:
 - Flask (for sending data between different python programs)
 - Decorator pattern and Event-Driven-Architecture
