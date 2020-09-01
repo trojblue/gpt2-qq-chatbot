@@ -1,0 +1,6 @@
+(anaconda shell)
+cd D:\APP\0CSC\GPT2-chitchat
+python interact_mmi.py --debug
+
+使用历史:
+草 射箭好难啊

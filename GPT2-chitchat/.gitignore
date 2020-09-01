@@ -1,0 +1,7 @@
+venv/
+_pychache_/
+
+/mmi_model/
+/dialogue_model/
+/venv/
+/sample/
